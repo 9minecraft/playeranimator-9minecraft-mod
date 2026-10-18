@@ -8,6 +8,17 @@ An unofficial rebuild of **Zigy, dima_dencep**'s original work, kept running on 
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric, NeoForge |
+| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+| 1.21.11 | Fabric, NeoForge |
+| 1.21.10, 1.21.9 | Fabric, NeoForge |
+| 1.21.8, 1.21.7, 1.21.6 | Fabric, NeoForge |
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
